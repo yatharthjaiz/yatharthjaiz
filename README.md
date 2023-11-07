@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yatharthjaiz
+- 👋 Hi, I’m @yatharthjais
 - 👀 I’m interested in coding
 - 🌱 I’m currently studing
 - 💞️ I’m looking to collaborate on

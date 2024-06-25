@@ -1,5 +1,9 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Yatharth Jaiswal</h1>
 <h3 align="center">A passionate AI ML Enthusiast From India</h3>
+
+
+<img align="right" alt="Coding" width="500" src="https://www.bing.com/th/id/OGC.ba6d7d37fa1e4ca966ac7328bf43b96c?pid=1.7&rurl=https%3a%2f%2fc.tenor.com%2fGfSX-u7VGM4AAAAC%2fcoding.gif&ehk=XUh71vSjZz%2fsXxuDfLUSaVp3Y9ccGvPU1CIZWqbh8PU%3d">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharthjaiz&label=Profile%20views&color=0e75b6&style=flat" alt="yatharthjaiz" /> </p>
 
